@@ -1,0 +1,5 @@
+Model_Name,Accuracy
+Logistic Regression,91.8
+Decision Tree,91.1
+SVM,90.8
+Random Forest,90.4

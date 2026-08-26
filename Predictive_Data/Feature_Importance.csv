@@ -1,0 +1,14 @@
+Feature_Name,Importance
+YearBuilt,0.154
+GrLivArea,0.1453
+OverallQual,0.139
+FullBath,0.122
+LotArea,0.0716
+TotalBsmtSF,0.0654
+GarageArea,0.0601
+GarageCars,0.0549
+1stFlrSF,0.0523
+YearRemodAdd,0.0521
+OpenPorchSF,0.0317
+Fireplaces,0.0303
+TotRmsAbvGrd,0.0213
