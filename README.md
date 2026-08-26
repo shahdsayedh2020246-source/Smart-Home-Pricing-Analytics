@@ -1,40 +1,65 @@
-# 🍕 Pizza Sales Executive Dashboard | End-to-End Data Analysis
+![Banner](README%20image.png)
 
-> An interactive, multi-page Power BI executive dashboard designed to transform raw retail pizza operational data into actionable business insights and strategic KPIs.
+# 🏡 Smart Home Pricing Analytics
+
+A comprehensive, end-to-end data analytics project featuring advanced data cleaning, relational data modeling, rigorous KPI calculations, and multi-page interactive executive dashboards for real estate pricing and smart home features.
 
 ---
 
 ## 🚀 Project Overview
-This project delivers a comprehensive end-to-end data analysis solution for a retail pizza business. The primary objective was to evaluate financial performance, track order volumes, and analyze customer purchasing behavior to support executive-level decision-making and optimize store operations.
+This repository showcases an end-to-end data analytics workflow designed to transform raw housing market data and smart home valuation metrics into actionable strategic insights. The solution covers the entire data lifecycle—from ingestion, cleaning, and transformation using SQL and Python, to enterprise-grade data modeling and visualization.
 
 ---
 
-## 📊 Dashboard Preview
-| Executive Summary | Sales Trends & Seasonality |
-| :---: | :---: |
-| ![Executive Summary](dashboard_preview_1.png) | ![Sales Trends](dashboard_preview_2.png) |
+## 🛠️ Tech Stack & Tools
+- **Data Processing & Transformation:** Python (Pandas, NumPy), SQL Server / MySQL
+- **Data Modeling:** Relational Star Schema, Power Pivot, DAX
+- **Data Visualization & Dashboards:** Power BI, Tableau, Streamlit
+- **Design & Layout Mockups:** Figma, Visily
 
 ---
 
-## 🛠️ Tools & Tech Stack
-* **Data Processing & Transformation:** SQL Server, Python.
-* **Data Modeling & Calculations:** Power BI, Power Pivot, Advanced DAX Measures.
-* **UI/UX & Asset Design:** Figma / Visily (for custom backgrounds, card layouts, and navigation zones).
-* **Core Techniques:** Star-Schema Data Modeling, Granularity Optimization, Dynamic Slicers.
+## 📸 Dashboard & Interface Showcase
+
+### 1. Home Page / Landing View
+The entry point of the analytics application, designed for seamless navigation and high-level metric summaries of smart home pricing trends.
+
+![Home Page](Home%20Page_2.png)
 
 ---
 
-## 💡 Key Business Insights & Features
-1. **Executive KPI Tracking:** Monitored core business metrics dynamically, including Total Revenue, Total Orders, Average Order Value, and Total Pizzas Sold.
-2. **Temporal Sales Patterns:** Analyzed hourly, daily, and monthly trends to pinpoint peak operational hours, rush times, and seasonal demand shifts.
-3. **Product Performance Analysis:** Evaluated category-wise and size-wise distribution to identify best-selling items and underperforming menu elements.
-4. **Interactive Navigation:** Implemented dynamic filtering and multi-page drill-downs for a streamlined user experience.
+### 2. Executive Dashboard - Overview & KPIs (Dashboard 1)
+High-level operational performance metrics, median housing prices, smart feature premiums, and core KPI scorecards.
+
+![Dashboard 1](Dashboard%201_2.png)
 
 ---
 
-## 📂 Repository Structure
+### 3. Detailed Performance Analysis (Dashboard 2)
+Deep-dive analytical views highlighting regional price distributions, feature correlations, and comparative valuation indicators.
+
+![Dashboard 2](Dashboard%202_2.png)
+
+---
+
+### 4. Behavioral & Operational Insights (Dashboard 3)
+Granular exploration of buyer preferences, smart technology adoption rates, and transactional valuation patterns.
+
+![Dashboard 3](Dashboard%203_2.png)
+
+---
+
+### 5. Advanced Forecasting & Strategic Summary (Dashboard 4)
+Predictive price trends, market demand benchmarks, and executive recommendations based on historical smart home pricing data.
+
+![Dashboard 4](Dashboard%204_2.png)
+
+---
+
+## 📁 Repository Structure
 ```text
-├── 📁 Datasets          # Raw and cleaned data sources
-├── 📁 PowerBI_File      # .pbix file featuring the complete data model and DAX formulas
-├── 📁 UI_Assets         # Custom layouts and background designs (Figma/Visily)
-└── 📄 README.md         # Project documentation
+├── assets/                  # Dashboard screenshots and visual assets
+├── data/                    # Raw and processed datasets
+├── scripts/                 # Python data cleaning and processing scripts
+├── sql/                     # SQL queries, views, and stored procedures
+└── README.md                # Project documentation
