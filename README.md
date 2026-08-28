@@ -72,3 +72,20 @@ Using advanced DAX measures and SQL aggregate functions, several critical perfor
 
 ### 4. User-Centric Dashboard Design & Deployment
 Before implementing the final interfaces in Power BI and Tableau, wireframes and structural mockups were custom-designed in Figma and Visily. This guaranteed an intuitive user experience featuring distinct navigation zones, cohesive color theory, and responsive multi-page views tailored for executive decision-makers.
+
+---
+
+## 💡 Strategic Insights & Recommendations
+Leveraging advanced analytics to drive data-backed real estate and investment decisions:
+
+![Insights & Recommendations](Isights%20&%20Recommendations.png)
+
+* **1. Leverage High-Impact Features:** Focus renovations and marketing on the top 5 influential features (e.g., Overall Quality, GrLivArea) to maximize price. Consider adding high-value features like fireplaces to properties in moderate-quality neighborhoods for a 53% average price increase.
+* **2. Target Premium Neighborhoods:** Concentrate development and sales efforts in the top 5 premium neighborhoods (e.g., NoRidge, NridgHt) for higher profit margins. Monitor price gaps and adjust pricing strategies for different zoning types to maintain competitiveness.
+* **3. Optimize Property Quality & Features:** Ensure all properties meet or exceed a minimum Overall Quality rating of 5 for optimal valuation. Prioritize properties with built-in or attached garages, as these types add the most value.
+
+---
+
+## 👤 Author
+**Shahd Mohamed Sayed Ahmed**  
+*Junior Data Analyst & Business Intelligence Enthusiast*
